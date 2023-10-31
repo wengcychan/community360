@@ -6,24 +6,23 @@ Community360 is a city planning platform for public engagement, harnessing open 
 
 ### **1. Viewpoint Customization**
 
->> Enter the address for customized viewpoints
->> <img src="./Images/viewport_custom.gif" alt="Viewport_Custom" width="80%">
->> 
->> Select viewpoints based on top search results
->> <img src="./Images/viewport_topSearch.gif" alt="Viewport Top Search" width="80%">
+Enter the address for customized viewpoints
+<img src="./Images/viewport_custom.gif" alt="Viewport_Custom" width="70%">
 
+Select viewpoints based on top search results
+<img src="./Images/viewport_topSearch.gif" alt="Viewport Top Search" width="70%">
 
 ### **2. Development Comparison**
->> Change development options to compare the future view with the existing one
->> <img src="./Images/options.gif" alt="Development Options" width="80%">
+Change development options to compare the future view with the existing one
+<img src="./Images/options.gif" alt="Development Options" width="70%">
 
 ### **3. Sunlight Effects**
->>  Customize the view by adjusting sunlight effects through time and date settings
->> <img src="./Images/sunlight.gif" alt="Sunlight Effects" width="80%">
+Customize the view by adjusting sunlight effects through time and date settings
+<img src="./Images/sunlight.gif" alt="Sunlight Effects" width="70%">
 
 ### **4. Immersive Experience**
->> Explore the future developments by walking through them, and share feedback during the experience
->> <img src="./Images/comment.gif" alt="Immersive Experienc" width="80%">
+Explore the future developments by walking through them, and share feedback during the experience
+<img src="./Images/comment.gif" alt="Immersive Experienc" width="70%">
 
 ## 🛠️ Technologies Used
 
